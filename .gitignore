@@ -1,0 +1,4 @@
+app
+*.o
+*.out
+.DS_Store
