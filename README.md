@@ -42,6 +42,9 @@ This project demonstrates how to:
 
 ## Project Structure
 
+## Project Structure
+
+```
 async-job-system-cpp/
 ├── include/
 │   ├── EventLoop.h
@@ -50,7 +53,8 @@ async-job-system-cpp/
 ├── src/
 │   └── EventLoop.cpp
 ├── main.cpp
-├── README.md
+└── README.md
+```
 
 ---
 
